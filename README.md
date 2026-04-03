@@ -10,4 +10,4 @@ Sobre mí:
 - Me gusta tocar el teclado y la guitarra, donde trato de interpretar, entre otras cosas, a mis artistas favoritos (Cerati, Los Piojos, Los Redondos, etc.). 🎸
 - Trabajo de Soporte en un software de gestión para administradores de consorcios.
 
-![Yo](./images/yo.png)
+<img src="./images/yo.png" width="250"/>
