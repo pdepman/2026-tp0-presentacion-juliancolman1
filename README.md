@@ -11,3 +11,7 @@ Sobre mí:
 - Trabajo de Soporte en un software de gestión para administradores de consorcios.
 
 <img src="./images/yo.png" width="250"/>
+
+Este es mi progreso actual en la carrera:
+
+<img src="./images/progreso.png" width="600"/>
